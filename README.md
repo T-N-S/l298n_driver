@@ -4,10 +4,10 @@ This package provides a Python interface for controlling the L298N H-Bridge Moto
 
 ## Prerequisites
 
-This library requires the `sx1509_gpio_expander` library. You can install it using pip:
+This library requires the `sx1509-gpio-expander` library. You can install it using pip:
 
 ```sh
-pip install sx1509_gpio_expander
+pip install sx1509-gpio-expander
 ```
 
 ## Installation
